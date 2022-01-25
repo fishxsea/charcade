@@ -94,14 +94,14 @@ strop
 ```
 
 ---
-### **color method**
+### **color function**
 
-***This method is for coloring strings***
+***This function is for coloring strings***
 
-*There are currently 26 colors to choose from although you are not
+*There are currently 26 colors to choose from, although you are not
 limited to just the available colors.*
 
-*This method also accepts RGB values in place of the color for the 
+*This function also accepts RGB values in place of the color for the 
 fg color and bg color.*
 
 *All colors here are also available in **Arcade***
@@ -158,5 +158,5 @@ black
 - *Add custom tailored color palettes for your apps*
 - *Autocorrect*
 - *Word mixing to create new words*
-- *Show definitions of words*
+- *Return definitions of words*
 
