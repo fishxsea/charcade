@@ -56,7 +56,7 @@ animation.casewave('left')
 # It is recommended to use this at the end of every animation sequence
 animation.stamp() 
 ```
-![charcade](<iframe src="https://giphy.com/embed/YKnklUNdK54OjsaExo".gif)
+![charcade]("https://giphy.com/embed/YKnklUNdK54OjsaExo")
 
 ---
 ### **Brute class**
