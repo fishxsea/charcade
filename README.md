@@ -57,6 +57,7 @@ animation.casewave('left')
 animation.stamp() 
 ```
 **Output:**
+
 ![charcade](https://media.giphy.com/media/YKnklUNdK54OjsaExo/giphy.gif)
 
 ---
