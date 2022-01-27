@@ -56,6 +56,7 @@ animation.casewave('left')
 # It is recommended to use this at the end of every animation sequence
 animation.stamp() 
 ```
+![charcade](https://giphy.com/gifs/YKnklUNdK54OjsaExo/giphy.gif)
 
 ---
 ### **Brute class**
