@@ -1,0 +1,4 @@
+setup.py
+MANIFEST.in
+charcade.egg-info/
+dist/
