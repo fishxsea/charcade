@@ -115,7 +115,7 @@ strop
 
 **_This method is for coloring strings_**
 
-_There are currently 26 colors to choose from although you are not
+_There are currently 80 colors to choose from although you are not
 limited to just the available colors._
 
 _This method also accepts RGB values in place of the color for the
