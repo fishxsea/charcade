@@ -67,6 +67,7 @@ animation.casewave('left')
 # It is recommended to use this at the end of every animation sequence
 animation.stamp()
 ```
+![Alt Text](https://giphy.com/gifs/YKnklUNdK54OjsaExo.gif)
 
 ---
 
