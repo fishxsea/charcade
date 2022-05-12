@@ -173,7 +173,6 @@ pink60, pink70, pink80, pink90, pink
 
 - _Add more animation styles_
 - _Add custom tailored color palettes for your apps_
-- _Autocorrect_
 - _Word mixing to create new words_
 - _Show definitions of words_
 - _Color blending functionality_
