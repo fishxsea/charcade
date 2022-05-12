@@ -1,0 +1,2 @@
+global-include *.txt *.py *.md
+include charcade/words_by_letter/*.txt
