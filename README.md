@@ -50,23 +50,28 @@ from charcade import Arcade
 # This will clear your terminal for cleaner looking applications.
 Arcade.erase()
 
+about_charcade = [
+    '> charcade is a library',
+    '> for string manipulation',
+    '> and CLI styling in python'
+]
+
+colors = ['pink', 'orange', 'yellow']
 
 # The 'flow=' parameter controls the animation speed. default value is .1
-animation = Arcade('charcade charcade', 'orange40', flow=.08)
 
-# To create an animation sequence simply do this.
-animation.write()
-animation.casewave()
-animation.casewave('left')
-animation.slide()
-animation.slide('right')
-animation.casewave()
-animation.casewave('left')
+for line in about_charcade:
+    animation = Arcade(line, colors[about_charcade.index(line)], flow=.09)
+    # To create an animation sequence simply do this.
+    animation.writeglitch()
+    animation.shadeglitch(5)
 
-# Without stamp() your animation will stack ontop of itself
-# It is recommended to use this at the end of every animation sequence
-animation.stamp()
+    # Without stamp() your animation will stack ontop of itself
+    # It is recommended to use this at the end of every animation sequence
+    animation.stamp()
 ```
+
+![](https://media.giphy.com/media/r78mz1raXqQFvEfCoA/giphy.gif)
 
 ---
 
