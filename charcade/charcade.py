@@ -322,7 +322,7 @@ class Arcade:
     def glitch(self, cycles=35):
         
         '''
-        Takes no arguments. Simply writes your string out in the terminal.
+        Glitches text out in terminal.
         ---
         Does not accept lists.
         '''
@@ -523,6 +523,7 @@ class Arcade:
     def flicker(self, cycles=10):
         
         '''
+        Flickers text like a billboard
         ---
         Does not accept lists.
         '''
