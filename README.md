@@ -16,10 +16,12 @@ charcade is a string manipulation library that can animate, color, and bruteforc
 
 **_This class is for animating text._**
 
-**_General Functions_**
+**_Helper Functions_**
 
-- Arcade.erase() # Clears Terminal
-- Arcade("text here", "color here").clearline() # Clears current line of animation.
+- Arcade.erase()
+  > _Clears your terminal_
+- clearline()
+  > Clears current animation line. For use if you want different things typed out on the same line.
 
 **There are currently 9 animation types.**
 
