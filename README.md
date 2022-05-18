@@ -70,7 +70,6 @@ for line in about_charcade:
     # It is recommended to use this at the end of every animation sequence
     animation.stamp()
 ```
-![](https://media.giphy.com/media/YKnklUNdK54OjsaExo/giphy.gif)
 
 ![](https://media.giphy.com/media/r78mz1raXqQFvEfCoA/giphy.gif)
 
