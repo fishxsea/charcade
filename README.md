@@ -66,7 +66,7 @@ for line in about_charcade:
     animation = Arcade(line, colors[about_charcade.index(line)], flow=.09)
     # To create an animation sequence simply do this.
     animation.writeglitch()
-    animation.shadeglitch(5)
+    animation.shadeglitch(cycles=5)
 
     # Without stamp() your animation will stack ontop of itself
     # It is recommended to use this at the end of every animation sequence
