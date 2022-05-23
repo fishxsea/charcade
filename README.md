@@ -1,10 +1,10 @@
 # charcade
 
-**charcade** is a string manipulation library that can animate, color, and bruteforce strings.
-
 ```
 pip install charcade
 ```
+
+**charcade** is a string manipulation library that can animate, color, and bruteforce strings.
 
 ## Features
 
