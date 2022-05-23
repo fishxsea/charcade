@@ -192,7 +192,10 @@ class Arcade:
 
     def write(self, pause=False):
         '''
-        Takes no arguments. Simply writes your string out in the terminal.
+        Simply writes your string out in the terminal.
+        Set pause=True to pause slightly at punctuation for a more natural
+        flow of text.
+        
         ---
         Does not accept lists.
         '''
@@ -362,6 +365,10 @@ class Arcade:
             time.sleep(self.flow)
 
     def shadeglitch(self, cycles=15):
+
+        '''
+        shadeglitch() glitches out your string while changing colors in the shade of the color you chose in your Arcade object.
+        '''
 
         red_codes = [
             '\033[38;2;255;225;225m',
