@@ -148,6 +148,15 @@ print(color(my_string, fg='255,0,0', bg='0,0,0'))
 
 ---
 
+you can display the color chart by doing the following.
+
+```python
+from charcade import colorchart
+colorchart()
+```
+
+![Imgur](https://i.imgur.com/cFExWim.png)
+
 ```
 white, gray10, gray20, gray30, gray40, gray50,
 gray60, gray70, gray80, gray90, black
