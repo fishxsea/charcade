@@ -2,8 +2,6 @@
 
 **charcade** is a string manipulation library that can animate, color, and bruteforce strings.
 
-_**Installation**_
-
 ```
 pip install charcade
 ```
